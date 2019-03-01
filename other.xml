@@ -1,0 +1,40 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v11.10.0/bin/node">
+      <version-cache version="11.10.0" last-modified="1550180392000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.15.0/bin/node">
+      <version-cache version="8.15.0" last-modified="1545802914000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CUSTOMIZE_ACTIONS" value="recent" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="TypeScript File" />
+    <property name="GCT_CLOUD_SDK_LAST_AUTOMATIC_UPDATE_TMESTAMP" value="1551353769248" />
+    <property name="INTENTION_FILTER_HISTORY" value="quot" />
+    <property name="InstalledPluginsSearchHistory" value="Settings Repositories&#10;sync&#10;googl&#10;multirun" />
+    <property name="KEYMAP" value="push&#10;format&#10;open rece" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="tool window&#10;hide&#10;quotes&#10;eslint&#10;quote" />
+    <property name="TrendingPluginsSearchHistory" value="Settings Repositories&#10;Google Cloud Tools&#10;settings repo&#10;sync&#10;scroll" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.nvm/versions/node/v11.10.0/bin/node&#10;/home/user/Work/chat/admin-panel-frontend&#10;/home/user/Work/chat/admin-panel-backend&#10;/home/user/Work/chat/nest-js-socket-chat-project" />
+    <property name="file.gist.reindex.count" value="20971" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="lastTip" value="3" />
+    <property name="selected.color.option.type" value="COFFEESCRIPT.JAVASCRIPT_ID" />
+    <property name="settings.code.style.selected.tab.ECMA Script Level 4" value="Punctuation" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Punctuation" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.5605263" />
+  </component>
+</application>
