@@ -4,8 +4,6 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="RolesGuard" type="PLAIN_TEXT" />
       <mapping pattern=".env-production" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
