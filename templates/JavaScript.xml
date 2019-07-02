@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="cl" value="console.log($ITEM$$END$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($ITEM$$END$)" description="console.log()" toReformat="true" toShortenFQNames="true">
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
 </templateSet>
